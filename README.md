@@ -48,7 +48,7 @@ The dataset used in this project is named `Whitewine_v2.csv`.
 + #### Elbow Method
 ![Elbow_Method](https://github.com/ChitharaKarunasekera/R-Wine-Quality-Clustering-and-Analysis/assets/78892816/da8bda44-a23c-4b5b-b7c2-b9109fa26588)
 
-+According to above metods the most optimal number of clusters can be identified as 2
++ According to above methods the most optimal number of clusters can be identified as 2
  
 3. ### K-means analysis for each k attempt.
 + #### K-means analysis with k=2
